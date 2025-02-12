@@ -3,10 +3,10 @@ header('Content-Type: application/json');
 header("Access-Control-Allow-Origin: *");
 header("Access-Control-Allow-Headers: *");
 
-$servername = "41.76.197.12";
-$username = "providus2";
-$password = "Providus!@#";
-$dbname = "access";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 $response = [];
 
 if($_REQUEST['phone']){
