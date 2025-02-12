@@ -1,9 +1,9 @@
 <?php
 
-$servername = "41.76.197.12";
-$username = "providus2";
-$password = "Providus!@#";
-$dbname = "access";
+$servername = "";
+$username = "";
+$password = "";
+$dbname = "";
 $network = "";
 $today = date("Y-m-d");
 
